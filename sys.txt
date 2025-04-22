@@ -1,4 +1,4 @@
-	Command being timed: "./string_copy.out"
+	Command being timed: "./string_concat.out"
 	User time (seconds): 0.00
 	System time (seconds): 0.00
 	Percent of CPU this job got: 88%

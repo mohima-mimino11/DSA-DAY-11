@@ -5,7 +5,7 @@ int main(){
   scanf("%s %s", &a, &b);
   // mechanism behind strcpy() function
   // int len_b = strlen(b);
-  // for(int i = 0; i <= len_b; i++){
+  // for(int i = 0; i <= len_b; i++){ //to copy null char too
   //   a[i] = b[i];
   // }
   // shortcut built-in function
